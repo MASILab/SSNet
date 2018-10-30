@@ -1,5 +1,8 @@
 # SSNet
 
+Paper:
+https://arxiv.org/abs/1712.00542
+
 ## Example Code for Training
 - Train the model
 ```
